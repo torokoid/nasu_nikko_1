@@ -218,7 +218,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">2026Oct07、那須温泉に一泊して日光の中禅寺湖と華厳滝まででした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026Oct24、那須温泉に一泊して日光の中禅寺湖と華厳滝まででした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
