@@ -209,12 +209,12 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br>
 
 <br><br>
-
+<!--
 <h2><span class="yellow">今日のBGMは、ただ海を眺める｜心静まるケルト音楽｜Relaxing Celtic Music｜癒しBGM　作業用BGM　リラックスBGM🍋</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9bmlg68RtOQ?si=Ld4uCCKmXjElyE7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
-
+-->
 
 
 <br><br><br>
